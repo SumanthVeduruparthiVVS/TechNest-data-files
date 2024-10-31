@@ -1,0 +1,101 @@
+StoreID,StoreName,Location,OpeningDate
+1,Store_1,West Nicholas,2015-11-07
+2,Store_2,Lake Jeffrey,2017-04-18
+3,Store_3,Stephenhaven,2021-04-22
+4,Store_4,East Josephbury,2019-03-08
+5,Store_5,Armstrongstad,2022-07-12
+6,Store_6,South Barbara,2016-10-19
+7,Store_7,South Andrew,2017-03-24
+8,Store_8,South Charlestown,2019-02-22
+9,Store_9,Lake Steven,2020-02-08
+10,Store_10,South Marymouth,2018-08-02
+11,Store_11,Katieberg,2015-08-10
+12,Store_12,New Jamie,2018-12-21
+13,Store_13,Timothyshire,2020-07-14
+14,Store_14,Ethanfurt,2021-06-12
+15,Store_15,South Anitachester,2022-10-13
+16,Store_16,Port Kristinaburgh,2015-01-16
+17,Store_17,North Jonathanton,2015-10-30
+18,Store_18,North Deniseshire,2020-03-26
+19,Store_19,North Robin,2021-11-19
+20,Store_20,Kellybury,2016-09-15
+21,Store_21,Cordovaton,2020-04-04
+22,Store_22,Ericstad,2016-02-05
+23,Store_23,Riosside,2014-12-03
+24,Store_24,North Ritastad,2016-09-26
+25,Store_25,Angelicaville,2020-03-17
+26,Store_26,Lake Mark,2016-11-16
+27,Store_27,Connertown,2020-09-15
+28,Store_28,East Jane,2020-04-01
+29,Store_29,East Michael,2016-05-10
+30,Store_30,Waynebury,2016-08-21
+31,Store_31,Holmesborough,2022-04-27
+32,Store_32,Latoyaberg,2017-07-18
+33,Store_33,Port Brianstad,2022-02-10
+34,Store_34,Kylemouth,2021-03-03
+35,Store_35,Port Christinashire,2014-12-07
+36,Store_36,Mccannton,2016-12-28
+37,Store_37,East Ambertown,2015-10-18
+38,Store_38,New Amberborough,2018-06-24
+39,Store_39,New Sandra,2017-04-21
+40,Store_40,South Ritaview,2017-01-30
+41,Store_41,Deckermouth,2021-07-14
+42,Store_42,Campbellland,2018-01-22
+43,Store_43,South Jennifer,2019-04-30
+44,Store_44,North Emilymouth,2021-08-03
+45,Store_45,North Melissa,2015-01-19
+46,Store_46,Reginaburgh,2016-06-25
+47,Store_47,East Amystad,2015-09-30
+48,Store_48,East Paulshire,2018-03-29
+49,Store_49,Alexismouth,2020-12-17
+50,Store_50,Port Carrieshire,2019-03-30
+51,Store_51,New Kevin,2014-12-13
+52,Store_52,Melanietown,2021-07-12
+53,Store_53,South Shelly,2019-04-29
+54,Store_54,Ericfort,2014-12-18
+55,Store_55,West Leslie,2018-08-24
+56,Store_56,North Valerie,2020-08-27
+57,Store_57,Lake Michael,2019-11-14
+58,Store_58,Margaretside,2022-04-06
+59,Store_59,Millerhaven,2016-03-03
+60,Store_60,Lambertport,2018-10-16
+61,Store_61,Lake Colleenfort,2016-03-16
+62,Store_62,New Robert,2022-02-07
+63,Store_63,Lake Mary,2020-07-03
+64,Store_64,Port Kevin,2019-09-20
+65,Store_65,Port Nancy,2016-08-08
+66,Store_66,South Theresaton,2018-09-11
+67,Store_67,Michaelmouth,2019-01-06
+68,Store_68,West Robinchester,2022-05-16
+69,Store_69,West Mario,2019-07-01
+70,Store_70,North Jenniferland,2018-06-29
+71,Store_71,Danielhaven,2016-10-31
+72,Store_72,Brianfurt,2022-03-25
+73,Store_73,East Markfurt,2022-03-07
+74,Store_74,North Connor,2018-09-04
+75,Store_75,Fostermouth,2015-06-12
+76,Store_76,South Sarahmouth,2022-03-27
+77,Store_77,Christophermouth,2020-10-30
+78,Store_78,North Dawn,2017-11-24
+79,Store_79,Petersonstad,2022-09-06
+80,Store_80,Lake Christopherview,2020-07-12
+81,Store_81,Lake Calebfort,2018-11-19
+82,Store_82,North Sherri,2020-03-30
+83,Store_83,Port William,2022-07-25
+84,Store_84,North Karen,2015-12-15
+85,Store_85,East Alexismouth,2017-04-05
+86,Store_86,South Thomasshire,2022-10-05
+87,Store_87,Blakemouth,2020-04-25
+88,Store_88,New Ruth,2021-05-23
+89,Store_89,Terristad,2019-03-13
+90,Store_90,Ambermouth,2019-05-17
+91,Store_91,East Stevehaven,2018-10-13
+92,Store_92,East Luis,2021-03-04
+93,Store_93,Port Aprilmouth,2015-01-13
+94,Store_94,New Matthewborough,2017-06-16
+95,Store_95,Briannaview,2017-03-17
+96,Store_96,Glendabury,2016-02-25
+97,Store_97,East Michaelville,2021-09-13
+98,Store_98,West Kenneth,2014-11-10
+99,Store_99,Carlyville,2021-11-01
+100,Store_100,Laneport,2020-09-09

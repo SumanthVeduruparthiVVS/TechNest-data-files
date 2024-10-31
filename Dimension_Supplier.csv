@@ -1,0 +1,101 @@
+SupplierID,SupplierName,ContactName,SupplierCity,SupplierState,ReliabilityScore
+1,"Smith, Brown and Berger",Kelly Cook,New Tylermouth,OH,3.18
+2,Miller Group,Tiffany Richardson,West Nicholasbury,TX,3.91
+3,"Monroe, Brown and Anderson",Manuel Gonzalez,East Michael,SC,1.77
+4,"Santos, Reyes and Allen",Rachel Young,Kevintown,GA,3.79
+5,"Noble, Russell and Sanchez",Anthony Ruiz,Lake Sydneyland,CT,2.63
+6,"Saunders, Lang and Bailey",Jackie Snyder,New Adamberg,NV,2.35
+7,"Thomas, Lee and Bishop",Taylor Byrd,Victoriatown,LA,1.06
+8,Weber Ltd,Kathy White,Snyderburgh,NV,4.96
+9,"Baker, Mann and Harris",Brittany Perkins,West Cynthia,OR,3.7
+10,"Fischer, Klein and Martinez",Kelly Curtis,Courtneychester,NE,1.48
+11,Thompson Group,Sheri Baxter,Matabury,AR,4.83
+12,Freeman PLC,Charles Baird,Port Donnaborough,MA,3.23
+13,Elliott-Osborne,Daniel French,Wilkinsonhaven,FL,4.8
+14,Hudson-Harris,Jonathan Ortiz,Sarahview,MI,2.93
+15,Pena-Rogers,Cristian Williams,Robertsmouth,NV,3.74
+16,"Castillo, Hubbard and Barker",Linda Gibson,Deborahland,MO,2.39
+17,"Fuller, Anderson and Huber",Paul Miranda,Ryanport,NC,2.04
+18,Stanton-Boyd,Vicki Welch,North Matthew,UT,3.59
+19,"Collins, Hines and Pham",Alicia Peterson,Stevensfurt,TX,1.42
+20,Jackson Group,Jason Andrews,Mortonville,MA,2.45
+21,Lewis LLC,Mitchell Willis,Wolfetown,CO,3.89
+22,"Carlson, West and Meadows",William Harrison,West Donaldview,UT,2.8
+23,"Greene, Moon and Burton",Shawn Flores,Gutierrezmouth,OK,3.66
+24,Griffin-Acevedo,Samuel Kim,Crystalstad,AR,2.86
+25,Rosario PLC,Amanda Burnett,North Matthewland,TN,4.25
+26,"Weber, Wood and Brown",Jonathan Booker,Port Yolanda,HI,2.59
+27,"Barker, Chung and White",Michele Mora,Port Bryan,IN,1.11
+28,"Bruce, Clark and Browning",Kimberly Sanders,New Catherineview,PA,4.54
+29,Baker Inc,Calvin Meyer,West Susan,SD,2.54
+30,"Jordan, Weber and Zuniga",David Wilcox,East Jonathan,TX,3.79
+31,Walker and Sons,Jeremy Montgomery,Briantown,DC,4.94
+32,Johnson-Delgado,Megan Levy,South Michaelview,NE,2.34
+33,"Richmond, Dixon and Farmer",Ricardo Davis,Owensborough,NV,4.61
+34,Carter Ltd,Rebecca Marquez,East Jodifort,OK,2.02
+35,Huerta-Benson,Cindy Douglas,Port Alyssa,CO,2.17
+36,Boyd-Holt,Cathy Parker,Ashleyfurt,CT,3.81
+37,Mckay-Huynh,Ashley Avery MD,Susantown,PA,4.91
+38,Wilson-Gaines,Julian Davis,Ginaborough,CO,4.14
+39,Medina and Sons,Brian Thomas,New Ashley,AK,4.23
+40,Douglas LLC,Brian Barker,South Matthewmouth,AZ,3.92
+41,Fisher LLC,Lisa Dorsey,Brownborough,IL,1.48
+42,Ford-Miller,Jennifer Evans,Paulaside,GA,1.53
+43,"Stewart, Baker and Noble",Megan Ruiz,Carpenterstad,MO,3.55
+44,Cardenas-Morales,Michael Horton,South Maureenshire,CO,2.1
+45,Hughes LLC,Rebecca Thompson,West Destinyside,AL,2.19
+46,Guerrero-Salinas,Jacob Brown,Lake Kellymouth,KS,1.71
+47,Lopez and Sons,Justin Conway,North Donaldview,SD,4.62
+48,Harper-Kaiser,Brandon Benton,North Conniemouth,NE,4.25
+49,"Turner, Burton and Nichols",Corey Owens,West Brianna,AR,2.02
+50,Morris Inc,Kellie Williams,Riverashire,AZ,1.19
+51,Harrison Group,Kevin Coffey,Tammieborough,WY,4.83
+52,Cook Inc,Robert Mccullough,Lake Amy,ND,3.87
+53,Nichols-Jensen,Matthew Bailey,West Stephanieborough,UT,2.13
+54,"Ford, Garner and Frederick",Anita Carpenter DVM,Fosterchester,TN,3.19
+55,Daniels-Rodriguez,Shannon Edwards,Lake Davidborough,PA,4.15
+56,"Patel, Williams and Stevenson",Adam Beard,Matthewborough,MN,4.74
+57,Moran-Kelley,Tonya Smith,Port Kristinaberg,VA,2.48
+58,Adkins-Murphy,Christopher Stout,Gailhaven,AR,1.44
+59,Haynes LLC,April Anderson,West Johnnybury,MA,1.29
+60,Jackson-Callahan,Brittany Graham,Colemanberg,IA,2.11
+61,Cortez-Williams,Luke Collins,Port Danafurt,CT,3.62
+62,"Elliott, Mueller and Butler",Joan Edwards,Courtneymouth,LA,3.58
+63,"Arroyo, Lee and Baker",Ashley Weiss,Port Ruben,PA,2.95
+64,Palmer-Valenzuela,Shannon Salazar,South Marilynbury,VA,2.08
+65,Jones-Owens,Mr. Frank Fleming,Aguilarland,DE,1.65
+66,"Lawson, Morales and Figueroa",Jeremy Swanson,New Kevin,NE,2.58
+67,"Reid, Martinez and Floyd",Eric Garcia,Robinsonton,FL,1.69
+68,Wolfe Inc,Marc Smith,South Rodney,MI,1.86
+69,"Nelson, Warner and Mullins",Adam Campbell,Jasmineside,TX,2.73
+70,Wong Inc,Madison Proctor,Michelleton,NC,2.75
+71,Winters-Jordan,Paul Thompson,Staffordport,NJ,4.66
+72,Garrett and Sons,Tiffany Lynch,West Laura,MN,4.5
+73,Greene LLC,Heather Smith,West Eric,MT,4.22
+74,Martin-Tran,Christopher Perez,Coryshire,KY,4.35
+75,Wheeler PLC,Eugene Villa,West Stacey,FL,4.1
+76,Kelly Group,Jacob Stephenson,Wrightmouth,WI,2.33
+77,"Ramsey, Lee and Richard",Michael Flores,North Jessica,SC,3.28
+78,Guzman Inc,Annette Rose,Vasquezstad,ME,2.96
+79,Washington-French,Kristina Roberts,North Helenmouth,ID,2.38
+80,"Hardy, Williams and Miller",Sara Singleton,Coxmouth,NY,3.6
+81,Evans-Hernandez,Rose Vance,Port Erika,AL,1.88
+82,Burns-Payne,Leslie Sanchez,Port Denise,WY,3.51
+83,Mcmillan-Morales,Rebecca Craig,Kathleenstad,WY,2.75
+84,"Ballard, Cameron and Jackson",Jared Jackson,Port James,NE,4.67
+85,"Malone, Dawson and Schmidt",Jessica Rowe,East Frederick,SD,4.54
+86,Strickland Ltd,Austin Cisneros,Jenniferborough,MA,2.57
+87,"Richardson, Cunningham and Hall",Kyle Potts,East Catherineville,GA,2.21
+88,"Thompson, Villa and Boyd",Samantha Cannon,South Cynthia,SC,4.81
+89,"Wright, Page and Lopez",David Craig,East Louis,NV,2.54
+90,Morrow Group,Denise Aguilar,Garciafort,IA,2.75
+91,Luna and Sons,Ashley Thompson,East Brentview,TN,4.02
+92,Blevins and Sons,Kyle Davis,West Amyburgh,NE,2.41
+93,Fowler-Ali,Erika Lewis,Johnstad,OK,2.63
+94,Hurley and Sons,Jacob Watson,East Daniel,NY,2.15
+95,"Ray, Medina and Brown",Lisa Buckley,Georgemouth,SD,3.65
+96,"Thomas, Barron and Smith",Karen Villarreal,Kevinview,SD,4.9
+97,Benson LLC,Juan Freeman DDS,Margaretmouth,KY,3.85
+98,"Haynes, Reid and Hinton",Felicia Lane DVM,New Gabriel,MI,4.16
+99,"Heath, Ramos and Pierce",Kyle Harris,Coxfort,KS,1.59
+100,"Johnson, Robinson and Woods",Mark Potter,New Christopher,HI,4.82
